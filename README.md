@@ -16,7 +16,7 @@ source /cvmfs/sw.hsf.org/key4hep/setup.sh -r 2025-05-29
 If the k4geo library is installed locally and should be inclued instead, one has to go to the directory where k4ge0 is installed and set the environment variable
 export K4GEO=$PWD/k4geo/
 
-Here is more information on how to set up paths to your local installation: https://fccsw.web.cern.ch/fccsw/filesForSimDigiReco/ALLEGRO/ALLEGRO_o1_v03/
+Here is more information on how to set up paths to your local installation: https://github.com/HEP-FCC/FCCSW?tab=readme-ov-file
 
 Then you can run the simulation with ddsim, by putting this directly in the terminal:
 
